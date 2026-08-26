@@ -21,5 +21,5 @@ Interessada em Desenvolvimento de Software, Inteligência Artificial e Sistemas 
 
 # Contato
 
-- LinkedIn: [Ana Carolina](www.linkedin.com/in/anacarolinasilva-eng)
+- LinkedIn: [Ana Carolina](www.linkedin.com/in/anacarolinasilva-eng/)
 - E-mail: anacarolsilva.san@gmail.com
