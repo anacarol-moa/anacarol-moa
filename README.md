@@ -15,7 +15,7 @@ Interessada em Desenvolvimento de Software, Inteligência Artificial e Sistemas 
 
 # Projetos
 
-- [QUIZ de POO em Java](LINK)
+- [QUIZ de POO em Java](https://github.com/anacarol-moa/jogoquiz-java)
 - [Sistema Biblioteca em C](https://github.com/anacarol-moa/sistema-biblioteca)
 - [ULA em Verilog](LINK)
 
