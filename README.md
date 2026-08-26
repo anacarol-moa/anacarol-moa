@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou Ana Carolina
 
-<!--
-**anacarol-moa/anacarol-moa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Computação no CEFET-MG  
+Técnica em Eletrônica pelo CEFET-MG
+Interessada em Desenvolvimento de Software, Inteligência Artificial e Sistemas Embarcados
 
-Here are some ideas to get you started:
+# Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C
+- Python
+- Verilog
+- Linux
+- Git/GitHub
+
+# Projetos
+
+- [Agenda em Java](LINK)
+- [Estruturas de Dados em C](LINK)
+- [ULA em Verilog](LINK)
+
+# Contato
+
+- LinkedIn: [Ana Carolina](www.linkedin.com/in/anacarolinasilva-eng)
+- E-mail: anacarolsilva.san@gmail.com
