@@ -16,7 +16,7 @@ Interessada em Desenvolvimento de Software, Inteligência Artificial e Sistemas 
 # Projetos
 
 - [Agenda em Java](LINK)
-- [Sistema Biblioteca em C](LINK)
+- [Sistema Biblioteca em C](https://github.com/anacarolinasilva/sistema-biblioteca)
 - [ULA em Verilog](LINK)
 
 # Contato
