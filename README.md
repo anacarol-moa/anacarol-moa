@@ -16,7 +16,7 @@ Interessada em Desenvolvimento de Software, Inteligência Artificial e Sistemas 
 # Projetos
 
 - [Agenda em Java](LINK)
-- [Estruturas de Dados em C](LINK)
+- [Sistema Biblioteca em C](LINK)
 - [ULA em Verilog](LINK)
 
 # Contato
