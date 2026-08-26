@@ -1,7 +1,7 @@
 # Olá! Eu sou Ana Carolina
 
-Estudante de Engenharia de Computação no CEFET-MG  
 Técnica em Eletrônica pelo CEFET-MG
+Estudante de Engenharia de Computação no CEFET-MG  
 Interessada em Desenvolvimento de Software, Inteligência Artificial e Sistemas Embarcados
 
 # Tecnologias
